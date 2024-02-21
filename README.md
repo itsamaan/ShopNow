@@ -1,3 +1,12 @@
+**Project Video**
+
+
+https://github.com/itsamaan/ShopNow/assets/99782520/2e5c9083-3863-425c-8171-044579786c25
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
